@@ -25,6 +25,16 @@ Almost 99% of the values for 'car' column were blank. As a result, this column w
 #### Duplicate Data: 
 74 duplicate rows were identified. However they have not been eliminated.
 
+## Summary of analysis
+
+Based on the observations, we can hypothesize the following about drivers who accepted the bar coupons:
+
+* Drivers who frequently visit bars likely accept bar coupons. 
+* Younger drivers under the age of 30, have a higher acceptance rate for bar coupons, possibly indicating younger demographics interested in social spending
+  
+* Also, Drivers who are not widowed and are not in farming, fishing, or forestry are more likely to accept bar coupons. 
+
+
 ## Result Data Visualizations
 ![Image](/images/Coupons_By_Type.jpg)
 <br>
